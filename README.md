@@ -16,7 +16,7 @@ https://sanskrit-lexicon-scans.github.io/shakuntala/app1/?N
 
 ## app2
 Provide access to pages based on (page, line-number within page)
- page (internal) 1-113
+ page (internal) 3-113
  linenum -- 1-X  (various).
  
 https://sanskrit-lexicon-scans.github.io/shakuntala/app1/?N,N
