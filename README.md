@@ -1,10 +1,9 @@
-## shakuntala/  link target.
+## shakuntala  link target.
 
 Ref: https://github.com/sanskrit-lexicon/PWG/issues/125
 
-PDF source: : https://digi.ub.uni-heidelberg.de/diglit/kalidasa1842
-    license: https://creativecommons.org/publicdomain/mark/1.0/
-      
+PDF source: https://www.digitale-sammlungen.de/en/view/bsb10251069
+    license: https://rightsstatements.org/page/NoC-NC/1.0/  
 
 PDF title: Abhijñānaśakuntala, Böhtlingk, Otto von, 1842
 
